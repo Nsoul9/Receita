@@ -1,8 +1,8 @@
-###### Livro de receita vegana
+###### Livro de Receita Vegana
 
-Olá bem vindo ao mundo vegano 
+Olá Bem vindo ao mundo vegano 
 
-Indice
+
 
 
 
